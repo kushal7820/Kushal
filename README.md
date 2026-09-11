@@ -98,8 +98,7 @@ Quantum Computing / QML
 ## 📫 Connect
 
 - GitHub: https://github.com/kushal7820
-- LinkedIn: 
-
+- Gmail:kushalgowda0902@gmail.com
 ---
 
 <p align="center">
