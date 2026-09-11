@@ -84,7 +84,7 @@ Quantum Computing / QML
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kushal7820&show_icons=true&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7820&layout=compact&hide_border=true" height="165">
 </p>
 
 ---
