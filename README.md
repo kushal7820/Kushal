@@ -97,8 +97,8 @@ Quantum Computing / QML
 
 ## 📫 Connect
 
-- GitHub: **YOUR_GITHUB_USERNAME**
-- LinkedIn: **YOUR_LINKEDIN_USERNAME**
+- GitHub: https://github.com/kushal7820
+- LinkedIn: 
 
 ---
 
