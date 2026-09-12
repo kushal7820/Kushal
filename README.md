@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kushal
 
-### Engineering Student • AI/ML • Full-Stack Development
+### Engineering Student at MSRIT • AI/ML • Full-Stack Development
 
 I enjoy building practical software that combines **AI, data, and web technologies** to solve real-world problems.
 
